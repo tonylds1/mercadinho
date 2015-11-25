@@ -1,0 +1,4 @@
+{"id":-1,"productName":"Beans","productPrice":10.5}
+{"id":0,"productName":"Rice","productPrice":1}
+{"id":"deleted1","productName":"Pasta","productPrice":2.5}
+{"id":2,"productName":"Meet","productPrice":14}
